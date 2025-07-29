@@ -1,0 +1,16 @@
+{
+    "author": "Frenzyy",
+    "username": "7._zip",
+    "results": {
+        "GitHub": "NOT FOUND",
+        "Instagram": "FOUND",
+        "Twitter": "NOT FOUND",
+        "Reddit": "FOUND",
+        "TikTok": "FOUND",
+        "Pinterest": "FOUND",
+        "Snapchat": "NOT FOUND",
+        "SoundCloud": "NOT FOUND",
+        "Twitch": "FOUND",
+        "Steam": "FOUND"
+    }
+}
